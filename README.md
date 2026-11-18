@@ -10,7 +10,7 @@ Sitio estático en HTML, CSS y JavaScript, sin instalación de dependencias ni c
 python3 -m http.server 8000
 ```
 
-Abre http://localhost:8000. También se puede publicar el contenido de este repositorio en un hosting estático.
+Abre http://localhost:8000. El contenido del repositorio puede publicarse en un hosting estático, incluido GitHub Pages.
 
 ## Archivos
 
@@ -19,5 +19,6 @@ Abre http://localhost:8000. También se puede publicar el contenido de este repo
 - `app.js`: datos de los trabajos e integración de los visores.
 - `style.css`: estilos y adaptación a dispositivos móviles.
 - `assets/`: logo y portadas.
+- `videos/`: los tres videos MP4 con reproducción directa.
 
-Los modelos se muestran mediante Sketchfab y los videos mediante SharePoint. La reproducción de los videos depende de los permisos de los archivos originales.
+Los modelos se muestran mediante Sketchfab. Los videos usan el reproductor HTML del navegador, con controles, reproducción en móviles y sus portadas originales. Se cargan al pulsar reproducir (`preload="none"`), sin SharePoint ni inicio de sesión. Los MP4 están preparados para iniciar la reproducción antes de completar la descarga (`faststart`).
