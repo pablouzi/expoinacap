@@ -1,6 +1,6 @@
 # Muestra de Diseño INACAP
 
-Galería de siete proyectos: EduApp, Stray Diorama, kratosbaja5, Reel stopmotion, Zaphod, Intro Chinchita y Jorge Pérez.
+Galería de ocho proyectos: EduApp, Stray Diorama, kratosbaja5, Reel stopmotion, Zaphod, Intro Chinchita, Jorge Pérez y vinilosstand.
 
 ## Uso local
 
