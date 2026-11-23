@@ -32,3 +32,4 @@
 
 /* Project display height across formats and viewport sizes */
 .viewer{height:800px;aspect-ratio:auto}
+.viewer iframe[title="Proyecto interactivo Nani"]{max-width:400px;justify-self:center}

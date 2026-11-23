@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1120" role="img" aria-label="Nani, asistente virtual escolar">
+  <rect width="1600" height="1120" fill="#fff"/>
+  <path d="M20 25H1580V145C1210 108 390 108 20 145Z" fill="#bcefe5"/>
+  <path d="M20 1000C390 1035 1210 1035 1580 1000V1100H20Z" fill="#bcefe5"/>
+  <path d="M20 210Q800 90 1580 210V1010Q800 890 20 1010Z" fill="#ffe9a9"/>
+  <path d="M32 235Q800 125 1568 235V990Q800 875 32 990Z" fill="#9dd9ad"/>
+  <g fill="#eaf9ec" opacity=".9"><path d="M125 460l95 115-190 0z"/><path d="M805 670l115 135H690z"/><path d="M1320 420l180 80-160 45z"/><path d="M420 290l80-35 80 50-80 35z"/><path d="M1400 650l75-34 76 44-75 34z"/></g>
+  <g stroke="#eaf9ec" stroke-width="13" fill="none" opacity=".9"><path d="M390 710l110-110 20 20-110 110z"/><path d="M990 310l110-110 20 20-110 110z"/><path d="M1180 260l78 78m-58-98l78 78"/></g>
+  <path d="M790 108l25 78 80 0-65 48 25 78-65-48-65 48 25-78-65-48h80z" fill="#ff8798"/>
+  <path d="M80 140h48v35H80z" fill="#ff8798"/><path d="M80 180h48v85H80z" fill="#ffdb83"/><path d="M80 270h48l-24 34z"/>
+  <path d="M1415 180q38-28 75 0v115l-38-32-37 32z" fill="#4c5076"/>
+  <g transform="translate(630 365)"><path d="M0 35q0-35 35-35h505q35 0 35 35v195q0 35-35 35h-30l10 40-60-40H35q-35 0-35-35z" fill="#fff"/><text x="288" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="58" fill="#505176">¡Hola! soy Nani</text><text x="288" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="39" fill="#ff8b97">¿En que puedo ayudarte?</text></g>
+  <g transform="translate(1160 640)"><path d="M0 125q0-125 150-125t150 125q0 105-150 105T0 125" fill="#f2b9c3"/><ellipse cx="105" cy="104" rx="20" ry="33"/><ellipse cx="195" cy="104" rx="20" ry="33"/><g fill="#fff"><circle cx="99" cy="90" r="7"/><circle cx="189" cy="90" r="7"/></g><ellipse cx="85" cy="165" rx="28" ry="11" fill="#e77a91"/><ellipse cx="215" cy="165" rx="28" ry="11" fill="#e77a91"/></g>
+</svg>
