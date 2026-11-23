@@ -15,5 +15,6 @@
       <fieldset><legend>Archivos</legend><div class="grid"><label>Portada (JPG, PNG o WEBP)<input id="cover" type="file" accept="image/jpeg,image/png,image/webp" required></label><label>Video MP4 <small>Opcional; máximo 95 MB.</small><input id="video" type="file" accept="video/mp4"></label></div></fieldset>
       <div class="actions"><button type="submit">Publicar proyecto en GitHub</button><output id="status" aria-live="polite"></output></div>
     </form>
+    <section class="manage"><div><p>GESTIONAR PROYECTOS</p><h2>Proyectos creados desde este panel</h2><span>Eliminar un proyecto lo oculta de la muestra. Sus archivos se conservan en GitHub.</span></div><button id="load-projects" type="button">Cargar proyectos</button><div id="project-list" aria-live="polite"></div></section>
   </main><script src="admin.js"></script>
 </body></html>
