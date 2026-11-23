@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-label="Even, tu asistente virtual escolar de confianza">
+  <rect width="800" height="560" fill="#13288d"/>
+  <path d="M0 0H260C194 71 125 110 0 119Z" fill="#fff" stroke="#d63eff" stroke-width="10"/>
+  <path d="M800 0H545C613 76 670 105 800 106Z" fill="#fff" stroke="#d63eff" stroke-width="10"/>
+  <path d="M0 560H260C195 486 122 453 0 445Z" fill="#fff" stroke="#d63eff" stroke-width="10"/>
+  <path d="M800 560H545C615 481 676 457 800 448Z" fill="#fff" stroke="#d63eff" stroke-width="10"/>
+  <path d="M0 117C104 109 169 71 252 0H548C629 79 694 109 800 105V450C694 456 629 483 548 560H252C169 485 104 452 0 444Z" fill="#fff"/>
+  <g fill="#fff"><circle cx="40" cy="43" r="15"/><circle cx="742" cy="50" r="15"/><circle cx="42" cy="512" r="15"/><circle cx="742" cy="483" r="15"/></g>
+  <text x="400" y="212" text-anchor="middle" fill="#17116f" font-family="Arial, Helvetica, sans-serif" font-size="150" font-weight="900" transform="rotate(-8 400 212)">Even</text>
+  <g fill="none" stroke="#17116f" stroke-width="12"><circle cx="305" cy="306" r="56"/><circle cx="495" cy="306" r="56"/><path d="M361 306H439M305 250V362M249 306H361M495 250V362M439 306H551"/></g>
+  <circle cx="323" cy="287" r="12" fill="#17116f"/><circle cx="513" cy="287" r="12" fill="#17116f"/>
+  <text x="400" y="415" text-anchor="middle" fill="#d63eff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Tu asistente virtual</text>
+  <text x="400" y="448" text-anchor="middle" fill="#d63eff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">escolar de confianza</text>
+</svg>
